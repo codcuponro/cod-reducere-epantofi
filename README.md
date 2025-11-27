@@ -1,6 +1,6 @@
 # Cod Reducere ePantofi
 
-O colecție de coduri de reducere ePantofi. Le folosim pentru testarea cuvintelor cheie cod reducere ePantofi, voucher ePantofi, cupon ePantofi, și cod promotional ePantofi de pe Cuponescu.ro.
+O colecție de coduri de reducere ePantofi. Le folosim pentru testarea cuvintelor cheie [cod reducere ePantofi](https://cuponescu.ro/magazin/epantofi), [voucher ePantofi](https://cuponescu.ro/magazin/epantofi), [cupon ePantofi](https://cuponescu.ro/magazin/epantofi), și [cod promotional ePantofi](https://cuponescu.ro/magazin/epantofi) de pe Cuponescu.ro.
 
 ## Instalare
 
@@ -36,5 +36,4 @@ console.log(codes)
 
 Cod-reducere-epantofi a fost creat de echipa de la Cuponescu pentru a ajuta cu testarea.
 
-https://www.cuponescu.ro
-
+https://cuponescu.ro
